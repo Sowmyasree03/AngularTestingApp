@@ -1,0 +1,10 @@
+#content{
+    min-height: calc(100vh - 56px - 131.26px);
+}
+a{
+    color:grey;
+    
+}
+.active{
+    font-weight:bold;
+}
